@@ -33,7 +33,7 @@ tcp_timeout = 10
 udp_max_active_connections = 1000
 
 ## Maximum active TCP connections
-tcp_max_active_connections = 100
+tcp_max_active_connections = 250
 
 ## Optional IP address to connect to upstream servers from.
 ## Leave commented/undefined to automatically select it.
@@ -126,17 +126,16 @@ key_cache_capacity = 10000
 undelegated_list = "/opt/encrypted-dns/etc/undelegated.txt"
 
 ## Ignore A and AAAA queries for unqualified host names.
-ignore_unqualified_hostnames = true
+# ignore_unqualified_hostnames = true
 
 #########################
 #        Metrics        #
 #########################
 
-[metrics]
-
-type = "prometheus"
-listen_addr = "@METRICS_ADDRESS@"
-path = "/metrics"
+# [metrics]
+# type = "prometheus"
+# listen_addr = "@METRICS_ADDRESS@"
+# path = "/metrics"
 
 ################################
 #        Anonymized DNS        #
@@ -164,12 +163,10 @@ blacklisted_ips = [ @ANONDNS_BLACKLISTED_IPS@ ]
 [access_control]
 
 # Enable access control
-
 enabled = false
 
 # Only allow access to client queries including one of these random tokens
 # Tokens can be configured in the `query_meta` section of `dnscrypt-proxy` as
 # `query_meta = ["token:..."]` -- Replace ... with the token to use by the client.
 # Example: `query_meta = ["token:Y2oHkDJNHz"]`
-
 tokens = ["Y2oHkDJNHz", "G5zY3J5cHQtY", "C5zZWN1cmUuZG5z"]
