@@ -5,10 +5,14 @@ Forked from [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscry
 ## Build
 
 ```bash
-docker build . --file Dockerfile --tag encrypted-server:latest
+docker build . --file Dockerfile --tag ghcr.io/cumpsd/encrypted-server:latest
 ```
 
 ## Publish
+
+```bash
+docker push ghcr.io/cumpsd/encrypted-server:latest
+```
 
 ## Init
 
