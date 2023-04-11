@@ -17,5 +17,5 @@ docker push ghcr.io/cumpsd/encrypted-server:latest
 ## Init
 
 ```bash
-docker run --name=dnscrypt-server -p 443:443/udp -p 443:443/tcp --restart=unless-stopped encrypted-server:latest init -N core.cumps.be -E '10.0.50.50:443' -D '10.0.50.50:53'
+docker run --name=dnscrypt-server -p 443:443/udp -p 443:443/tcp --restart=unless-stopped ghcr.io/cumpsd/encrypted-server:latest init -N core.cumps.be -E '10.0.50.50:443' -D '10.0.50.50:53'
 ```
