@@ -51,7 +51,8 @@ RUN DEBIAN_FRONTEND=noninteractive \
     unixodbc-dev \
     uuid \
     uuid-dev \
-    xmlstarlet
+    xmlstarlet \
+    lame
 
 RUN DEBIAN_FRONTEND=noninteractive \
   apt-get purge --yes --auto-remove
