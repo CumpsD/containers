@@ -42,6 +42,7 @@ RUN DEBIAN_FRONTEND=noninteractive \
     libxslt1-dev \
     ssmtp \
     msmtp \
+    msmtp-mta \
     ntp \
     odbc-postgresql \
     odbcinst \
