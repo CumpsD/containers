@@ -3,13 +3,13 @@
 ## Build
 
 ```bash
-docker build . --file Dockerfile --tag ghcr.io/cumpsd/asterisk:20.2.1 --build-arg VERSION=20.2.1
+docker build . --file Dockerfile --tag ghcr.io/cumpsd/asterisk:20.3.0 --build-arg ASTERISK_VERSION=20.3.0
 ```
 
 ## Publish
 
 ```bash
-docker tag ghcr.io/cumpsd/asterisk:20.2.1 ghcr.io/cumpsd/asterisk:latest
+docker tag ghcr.io/cumpsd/asterisk:20.3.0 ghcr.io/cumpsd/asterisk:latest
 docker push ghcr.io/cumpsd/asterisk:latest
 ```
 
