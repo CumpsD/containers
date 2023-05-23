@@ -40,7 +40,6 @@ RUN DEBIAN_FRONTEND=noninteractive \
     libvorbis-dev \
     libxml2-dev \
     libxslt1-dev \
-    ssmtp \
     msmtp \
     msmtp-mta \
     ntp \
