@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package src_path="codec_silk" support_level="external" variant="" version="20.0_1.0.3" arch="x86_64">
+  <files>
+    <file executable="yes" install_path="${ASTMODDIR}/codec_silk.so" name="codec_silk.so" md5sum="f8e27406b5e355b5cdb784a14f609af6"/>
+    <file install_path="${ASTVARLIBDIR}/documentation/thirdparty/codec_silk/LICENSE" name="LICENSE" md5sum="395ebeb02aca2c8767b39cdf21e69b08"/>
+    <file install_path="${ASTVARLIBDIR}/documentation/thirdparty/codec_silk/README" name="README" md5sum="0d391c28d0562b9a99861e2afe46af0e"/>
+  </files>
+  <modules>
+    <module name="codec_silk"/>
+  </modules>
+</package>

@@ -1,0 +1,359 @@
+Digium End-User Purchase and License Agreement
+
+DIGIUM END-USER LICENSE AGREEMENT
+
+September 2016
+
+IMPORTANT – PLEASE READ CAREFULLY
+
+1. This Digium End-User  License Agreement (the "Agreement") is a legal
+agreement between Digium and its Affiliates (collectively referred to as
+"Digium") and the licensee, purchaser and end user respectively (hereinafter,
+“you”, “You” or “your”) of the Digium distribution media, software and related
+documentation (the "Software"), Digium services (“Services”), and any Digium
+computer electronics excluding Digium branded and manufactured phones (“Digium
+Phones”), the Speech Recognition Engine Bridge Software, and the AA50 which are
+governed by different end user agreements independent of and separate from this
+Agreement (“Hardware”), entitlements granted pursuant to a Subscription
+Agreement, and related manuals (collectively the "Products"). Affiliate means
+an entity which is (a) directly or indirectly controlling Digium; or (b) which
+is directly or indirectly owned or controlled by Digium.  By downloading or
+installing the Software or installing the Hardware, you agree to and accept the
+terms and conditions of this Agreement. If you do not accept, or are not
+authorized to accept the terms and conditions of this Agreement, then you
+should not install and/or use the Software or Hardware and, if presented with
+the option to “agree” or “disagree” to the terms, click “disagree”, and should
+remove any installed Software or Hardware from your computer. If you do not
+agree to the terms of this Agreement you may return the Hardware, subject to
+the time limitations, unopened requirement, and other restrictions of Digium’s
+then current Return Policy and Warranty Policy. You may only return Software if
+the Software had not been activated and is returned within ten (10) days
+following date of purchase. Copies of Digium’s Return Policy and Warranty
+Policy may both be found on www.digium.com and the terms of those polices are
+incorporated herein by reference
+
+2. GRANT OF LICENSE. Subject to the terms and conditions of this Agreement,
+Digium grants you a non-exclusive, non-sublicenseable, non-transferable license
+to use the Software for internal business purposes and not for resale, sub
+license, leasing, or (except for those Products excluded in Section 2.1 of this
+Agreement) providing hosted services to third-parties. “Software” shall include
+any upgrades, updates, bug fixes or modified versions (“Upgrades”) or backup
+copies of the Software supplied to you by Digium or an authorized reseller,
+provided you hold a valid license to the original Software and have paid any
+applicable fee for Upgrades. Notwithstanding the foregoing, Digium acknowledges
+that certain components of the Software may be covered by so-called “open
+source” software licenses (“Open Source Components”). Digium will provide a
+list of Open Source Components for a particular version of the Software upon
+your request. To the extent required by the licenses covering Open Source
+Components, the terms of such licenses will apply in lieu of the terms of this
+Agreement, and Digium hereby represents that only Open Source Components with
+licenses that intend to grant permissions no less broad than the license
+granted in this Section 2 are included in the Software. To the extent which the
+licenses applicable to an Open Source Component prohibit any of the
+restrictions in this Agreement with respect to such Open Source Component, such
+restrictions will not apply.
+
+Digium respects your privacy. Please read the following statement that applies
+to data collected by Digium through the Product Switchvox. The Product
+Switchvox collects a variety of information including but not limited to server
+and software configuration information and SIP Provider identities and reports
+that to Digium’s server on a regular basis for the purpose of improving the
+performance of the Product Switchvox. This information may be stored by Digium
+perpetually. Digium may share and disclose the foregoing information in an
+aggregated form in order to describe our services to prospective and existing
+partners, advertisers, or other third parties, and for other lawful purposes.
+The aggregated information will not be linked to any personal information that
+can identify any individual person or company. The following information is
+excluded from being collected pursuant to the foregoing: call logs, call
+recording details, login and logout activity, extension details such as name,
+address, and password, SIP provider details such as username and password,
+phonebook entries for names and phone numbers, administrative-user information,
+and audio files. If you do not agree to allowing all information falling under
+the previously listed categories and excluding the exceptions to be collected
+you must indicate that by removing the checkmark from the allow box on the
+Product registration page of the Product Switchvox. You may notify Digium at
+any time pursuant to the foregoing that you do not agree to allow collection of
+the previously listed information. Failure to notify Digium that you do not
+agree to allow the collection of the listed information will be deemed consent
+to allow Digium to collect all listed information.  Switchvox uses Google
+Analytics to collect a variety of information including but not limited to
+which features you use, and behavior flow. This information is reported to
+Digium’s Google Analytics Account for the purpose of improving the performance
+of the Software.  The following information is excluded from being collected
+pursuant to the foregoing: call logs, recording details, login and logout
+activity, extension details such as name, address, and password, SIP provider
+details such as username and password, contact entries for names and phone
+numbers, administrative-user information, and audio files. For more information
+on how Google Analytics collects and processes this data please visit this link
+http://www.google.com/policies/privacy/partners/. The information may be stored
+by Digium perpetually. Digium may share and disclose the foregoing information
+in aggregated form in order to describe Switchvox to prospective and existing
+partners, advertisers, or other third parties, and for other lawful purposes.
+The aggregated information will not be linked to any personal information that
+can identify an individual person or company. You may view Digium’s privacy
+policy at the following link http://www.digium.com/en/company/policies.  The
+Product Switchvox SMB Trial also requests permission from Digium’s server to
+continue running. If for any reason the Switchvox SMB Trial does not receive
+permission to continue running, then it will cease functioning. For any Product
+utilizing MP3 functionality (meaning the MPEG Layer-3 audio coding technology,
+which complies with the specifications and operating parameters established by
+the Joint Technical Committee of the International Standards Organization as
+described in ISO/IEC IS 11172-3 and ISO/IEC IS 13818-3) supply of that Product
+does not convey a license nor imply any right to distribute MPEG Layer-3
+compliant content created with that Product in revenue-generating broadcast
+systems (terrestrial, satellite, cable and/or other distribution channels),
+streaming applications (via Internet, intranets and/or other networks), other
+content distribution systems (pay-audio or audio-on-demand applications and the
+like) or on physical media (compact discs, digital versatile discs,
+semiconductor chips, hard drives, memory cards and the like). An independent
+license for such use is required. For details, please visit
+http://mp3licensing.com.
+
+Please read the following statement that applies to the Software called the
+Digium Phone Module for Asterisk. You are granted a limited, non-exclusive
+license to download, install, use and run the Digium Phone Module for Asterisk
+with Asterisk, strictly for the communications and control of Digium branded
+and manufactured Phones.  The use of the Digium Phone Module for Asterisk with
+phones not branded and manufactured by Digium is not permitted. The grants set
+forth in this EULA do not permit you to, and you agree not to, install, use or
+run the Digium Phone Module in conjunction with any non-Digium branded phone,
+or to enable others to do so.
+
+2.1 PRODUCTS EXCLUDED FROM HOSTED SERVICES RESTRICTION
+
+The following Products are excluded from the hosted services restriction of
+Section 2 of this Agreement. For purposes of clarification, You are free to use
+the Products in this Section 2.1 to provide hosted services to third parties.
+
+G.729 for Asterisk
+
+FAX for Asterisk
+
+HPEC for Asterisk
+
+Digium Phone Module for Asterisk
+
+Opus for Asterisk
+
+3. RESERVATION OF RIGHTS.  Except for the limited license rights expressly
+granted in this Agreement, Digium reserves all rights in and to the Software
+and any modifications thereto, including title, ownership, trademark,
+copyright, patent, trade secret and any other rights and interests. You will
+own only the Hardware (exclusive of Software embedded in the Hardware) and the
+physical media on which the Software and associated documentation are
+reproduced and distributed. If you allow an existing Services or Subscription
+Agreement plan to lapse, you may be required to pay retroactively annual fees
+for all Products from the date of the lapse in order to reinstate such
+Services. Products that are provided or sold as demo or evaluation units, or
+are marked with the legend “For Evaluation Only” or a similar notation, are not
+authorized for commercial business use in production or deployment, but are
+made available only for demonstration or evaluation purposes, and may not be
+resold or transferred to any third party without prior written permission from
+Digium.
+
+4. EMERGENCY CALLS.  You understand and acknowledge that the Products may be
+used to implement, supplement, or replace telephone systems and
+telecommunications services, and that in some cases, certain government
+regulations may apply to their implementation or use; and compliance with such
+regulations is your sole responsibility. You understand and acknowledge that
+users of the system on which you install the Products may attempt to use that
+system to place emergency calls. You acknowledge and agree that: the Products
+must be properly configured for your system or application; that the nature of
+the Products and any networks they may operate upon allow many possible
+configurations; that such configuration may be beyond the scope of the
+documentation supplied with the Products; and that specialized experience and
+training may be required to properly configure the Products. You acknowledge
+and agree that it is your sole responsibility to ensure that the Products and
+associated networks and systems are implemented and configured such that
+emergency calls are properly handled, and that any system or application based
+on the Products complies with all applicable laws and regulations. You
+acknowledge and agree that telephone and telecommunications systems can be
+complex and must be installed, implemented, and configured by the appropriate
+technically qualified personnel, and that you or your authorized agents have
+the qualifications necessary to properly implement and configure the Products
+to handle emergency calls, if applicable. You further acknowledge and agree
+that it is your sole and ongoing responsibility to ensure the proper operation
+of any emergency calling system based on the Products, including, but not
+limited to: initially and regularly testing the operation of the Products,
+including testing the operation with emergency services; notifying and training
+all users of any system on which the Products are installed how to use the
+system for emergency calls; and notifying such users of any and all limitations
+of your configuration and implementations of the Products and any network or
+system the Products are used on or with. By using the Products under this
+Agreement, you explicitly release Digium from any warranty, duty, liability, or
+obligation to train you or any users of your system regarding the proper
+configuration, operation, or use of the Products or any system or network they
+are used in conjunction with on which it is installed; to ensure that your
+configuration, implementation, or use of the Products provides for the proper
+handling or routing of emergency calls; or to ensure that your use of the
+Products is in compliance with any applicable laws and regulations.
+
+5. LIMITATION OF LIABILITY.  To the maximum extent permitted by law, Digium is
+not liable under any contract, negligence, strict liability or other legal or
+equitable theory for any loss of use of the Products, inconvenience or indirect
+damages of any character, including but not limited to damages for copyright or
+patent infringement, whether special, incidental or consequential (including,
+but not limited to, loss of revenue or profit, work stoppage, computer failure
+or malfunction, failure of connected equipment or programs, loss of information
+or data or loss of goodwill) resulting from the use of the Products, relating
+to warranty service, or arising out of any breach of this Agreement, even if
+Digium has been advised of the possibility of such damages. The sole remedy for
+a breach of the foregoing limited warranty is repair, replacement or refund of
+the defective or non-conforming Product(s). The maximum liability of Digium
+under this Agreement is limited to the purchase price of the Product(s) which
+is the subject of the dispute. If no money was paid for the applicable Product
+which is the subject of the dispute, then to the maximum extent permitted by
+applicable law Digium is not liable in any amount. The foregoing express
+written warranties and remedies are exclusive and in lieu of any other
+warranties or remedies, express, implied or statutory.
+
+6. WARRANTY AND RETURN The terms under which Digium's Products are warranted
+are defined in the Digium Warranty Policy, available on www.digium.com, the
+terms of which are included herein and incorporated by this reference. The
+Products may only be returned pursuant to Digium’s Return Policy, available on
+www.digium.com, the terms of which are included herein and incorporated by this
+reference. Digium reserves the right to update Digium’s Warranty Policy and
+Digium’s Return Policy. The version of the Warranty Policy that is current as
+of the date of Your purchase of the Products is the version that applies to
+You. The version of the Return Policy that is current as of the date of the You
+request to return them applies to You.
+
+6.1 WARRANTY EXCLUSIONS.  For purposes of clarification, certain Digium
+Products and Product families are not covered by Digium’s Standard Warranty
+Policy (“Excluded Products”). FOR THE EXCLUDED PRODUCTS, TO THE MAXIMUM EXTENT
+ALLOWED BY APPLICABLE LAW, NEITHER DIGIUM, NOR ITS THIRD-PARTY LICENSORS OR
+SUPPLIERS, NOR ITS DIRECTORS, OFFICERS, EMPLOYEES, OR AFFILIATES MAKE ANY
+REPRESENTATIONS OR WARRANTIES OF ANY KIND TO ANY END USER, EITHER EXPRESS OR
+IMPLIED, WITH RESPECT TO THE PRODUCTS, INCLUDING, BUT NOT LIMITED TO WARRANTIES
+OR REPRESENTATIONS OF MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+NON-INFRINGEMENT, EXCEPT TO THE EXTENT OTHERWISE SPECIFICALLY AGREED IN WRITING
+BY SUCH PERSON OR ENTITY. TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW,  IN
+NO EVENT SHALL DIGIUM, ITS THIRD PARTY LICENSORS OR SUPPLIERS, NOR ITS
+DIRECTORS, OFFICERS, EMPLOYEES, AFFILLIATES OR LICENSORS BE LIABLE TO YOU FOR
+ANY DAMAGES OF ANY KIND, INCLUDING INCIDENTAL DAMAGES, CONSEQUENTIAL DAMAGES,
+OR ECONOMIC DAMAGE OR INJURY TO PROPERTY, LOST PROFITS OR LOST REVENUES,
+WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHER THEORY AND
+REGARDLESS OF WHETHER SUCH PERSON OR ENTITY SHALL BE ADVISED OR HAVE REASON TO
+KNOW OF THE POSSIBLITY OF SUCH DAMAGES, EXCEPT TO THE EXTENT OTHERWISE AGREED
+IN WRITING BY SUCH PERSON OR ENTITY.   SOME COUNTRIES, STATES, OR PROVINCES DO
+NOT ALLOW FOR THE EXCLUSION OF IMPLIED WARRANTIES OR THE LIMITATION OF
+INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR CERTAIN PRODUCTS APPLIED TO CONSUMERS,
+OR THE LIMITATION FOR PERSONAL INJURY, SO THE ABOVE LIMITATIONS AND EXCLUSIONS
+MAY BE LIMITED IN THEIR APPLICATION TO YOU.  IF THE IMPLIED WARRANTIES ARE NOT
+ALLOWED TO BE EXCLUDED IN THEIR ENTIRETY, THEY WILL BE LIMITED TO THE DURATION
+OF DIGIUM’S WARRANTY FOR OTHER SOFTWARE OR HARDWARE PRODUCTS (WHICHEVER IS
+APPLICABLE DEPENDING ON WHICH PRODUCT IS AT ISSUE) AVAILABLE ON WWW.DIGIUM.COM.
+The Excluded Products are defined in the following subsections.  All terms and
+conditions of this Agreement apply to the Excluded Products as detailed in this
+Agreement.
+
+6.1.1 PRODUCTS EXCLUDED FROM DIGIUM’S STANDARD WARRANTY POLICY
+
+The following Excluded Products are not covered by Digium’s Standard Warranty
+Policy and Digium expressly disclaims any liability arising from use of such
+Excluded Products pursuant to Section 6.1. :
+
+FAX for Asterisk
+
+G.729 for Asterisk
+
+HPEC for Asterisk
+
+The Digium Phone Module for Asterisk
+
+Opus for Asterisk
+
+7. PROPRIETARY WORKS. The Products contain trademarks, trade secrets and/or
+copyrighted materials of Digium or its suppliers.
+
+7.1 You agree not to reverse engineer, decompile, or disassemble the Products,
+nor defeat, bypass, remove or otherwise interfere with any licensing mechanism
+which may be provided in or with the Products, except to the extent such
+restriction is expressly prohibited by applicable law. You shall not disclose
+or make available such trade secrets or copyrighted material (including any
+information pertaining to any licensing mechanism which may be provided in or
+with the Products) in any form to any third party nor remove any trademark
+notices, copyright notices, or licensing terms from the Products or any
+components therein. Title and intellectual property rights in and to Digium
+trademarks and Digium copyrighted material which appears in content displayed
+by or accessed through the Products belongs to Digium  This Agreement does not
+grant you any rights to use such trademarks or copyrighted material  nor does
+it guarantee that such content will continue to be available to you.
+
+7.2 You will not (except with regard to fair use or nominative use)  without
+Digium’s written consent, use the name, trademarks, trade names or logos of
+Digium, or the name of any product or service of Digium, in any manner. If
+Digium grants you a right to use the aforementioned, you will do so only in
+strict compliance with Digium trademark policies.
+
+8. TERMINATION. This Agreement shall terminate upon either destruction of the
+Products or return of the Products by you to Digium. In the event of a breach
+of the scope of use permitted by the grant in Section 2, or if you do not
+comply with other materials terms and conditions of this Agreement, Digium
+shall have the right to immediately terminate this Agreement, in which case you
+must promptly destroy or return all Products to Digium. Notwithstanding the
+foregoing, the provisions of Sections 5, 6, 7, 8, 9, 10, 11, 12 and 13 shall
+survive termination of this Agreement.
+
+9. EXPORT RESTRICTION AND COMPLIANCE WITH ALL APPLICABLE LAWS. You acknowledge
+that the Products, with the possible exception of certain third-party
+components, are of United States origin. The export and re-export of the
+Products are controlled by the United States Export Administration Regulations
+and such Products may not be exported or re-exported to  any country to which
+the United States embargoes goods.  In addition, the Products may not be
+distributed to persons on the Table of Denial Orders, the Entity List, or the
+List of Specially Designated Nationals.  By downloading or using a Digium
+Software Product, or using any other Digium Product, you are certifying that
+you are not a national of  any  country to which the United States embargoes
+goods and that you are not a person on the Table of Denial Orders, the Entity
+List or the List of Specially Designated Nationals. You also agree that you
+will not use the Products for any purposes prohibited by United States law. You
+agree to use the Products in compliance with all applicable laws, including
+local laws of the country or region in which you reside.
+
+10. TRANSFER AND ASSIGNMENT. This Agreement and the rights and obligations
+under it are not assignable by you without the prior written approval of
+Digium, voluntarily or by operation of law. Any attempt by you to assign this
+Agreement without such approval shall be void. This Agreement shall inure to
+the benefit of the successors and assigns of Digium. Notwithstanding the
+foregoing, you may move the Software to different internal computers to the
+extent consistent with the scope of license you have purchased to the Software.
+
+11. U.S. GOVERNMENT USERS. The Software and documentation qualify as
+“commercial items” as defined at 48 C.F.R. 2.101 and 48 C.F.R. 12.212. All
+Government users acquire the Software and documentation with only those rights
+herein that apply to non-governmental customers of Digium.
+
+12. GOVERNING LAW AND JURISDICTION AND DISPUTE RESOLUTION. This Agreement shall
+be governed by and construed under the laws of the USA, and to the extent no
+federal law applies, the laws of the State of Alabama, USA. Forum,
+jurisdiction, and venue shall be determined in accordance with such law. If
+permitted by applicable law, Digium and you hereby expressly waive any right to
+a trial by jury and consent to a bench trial in the event of a dispute Digium
+and you agree to attempt to resolve any dispute by direct communication between
+representatives of each party who are authorized to finally resolve the dispute
+prior to filing any legal action against the other party. The parties agree to
+attempt to resolve the dispute within fourteen (14) days of the first direct
+verbal communication between the representatives of the parties in which the
+parties make good faith efforts to attempt to resolve the dispute following
+written notice of the dispute having been provided to the party not invoking
+this clause. The party with the dispute must provide the written notice and
+must provide sufficient detail in the notice as to the nature of the problem
+and requested remedies so as to permit the party not invoking this clause to
+make good faith attempts to remedy the dispute. The parties agree not to resort
+to legal action, other than injunctions, either prior to or during the fourteen
+day dispute resolution period. The United Nations Convention on International
+Sale of Goods, the application of which is expressly excluded, does not govern
+this Agreement.
+
+13. ENTIRE AGREEMENT. This Agreement constitutes the entire understanding
+between the parties relating to the subject matter hereof and supersede all
+prior writings, negotiations or understandings with respect thereto. The
+provisions of this Agreement shall take precedence over any conflicting terms
+in any subsequent purchase order, documentation or collateral. The parties
+agree that this Agreement may be executed electronically and that electronic
+copies of this Agreement shall be binding upon the parties. If any provision of
+this EULA is held to be void, invalid, unenforceable or illegal, the other
+provisions shall continue in full force and effect.
+
+Digium EULA 022616

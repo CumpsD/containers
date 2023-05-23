@@ -1,0 +1,39 @@
+SILK Software Codec for Asterisk README
+
+==[ Installation Overview ]===================================================
+
+  There are two ways to install codec_silk on your system
+
+  The preferred way of installing the SILK codec is to use menuselect in
+  Asterisk to automatically download and install the codec. From the Asterisk
+  top-level source directory, run
+
+  1) run `make menuselect`
+  2) Highlight "Codec Translators" and press enter.
+  3) Scroll down to "codec_silk" in the section labeled "External"
+  4) Press enter to select the codec if it is not already selected.
+  5) Press "x" to exit menuselect and save your selections.
+
+  From here, build and install Asterisk as you normally would. When you run
+  the `make install` step, codec_silk will automatically be downloaded and
+  installed into the Asterisk module directory (by default,
+  /usr/lib/asterisk/modules/).
+
+
+  The alternative way to install codec_silk is to download a tarball
+  directly from digium.com. Once the tarball is downloaded and untarred,
+  move the codec_silk.so file into the Asterisk module directory (by default,
+  /usr/lib/asterisk/modules/). The codec selector should ensure that you
+  download the correct version of the codec for your version of Asterisk.
+
+
+==[ Asterisk Configuration ]===================================================
+
+  Asterisk can be given custom configuration instructions for the SILK codec
+  using the codecs.conf file. By placing "type = silk" in a configuration
+  section, that section will be recognized as having options relating to SILK.
+
+  For a listing of SILK-related options, see the Asterisk wiki's listing of
+  codecs.conf options or the sample codecs.conf file in the Asterisk source
+  distribution.
+

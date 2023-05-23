@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package src_path="codec_opus" support_level="external" variant="" version="20.0_1.3.0" arch="x86_64">
+  <files>
+    <file executable="yes" install_path="${ASTMODDIR}/codec_opus.so" name="codec_opus.so" md5sum="bef3649b05a52d898441175127e07db7"/>
+    <file executable="yes" install_path="${ASTMODDIR}/format_ogg_opus.so" name="format_ogg_opus.so" md5sum="d5b9a221509e41b7d347af0ce18bf7d3"/>
+    <file install_path="${ASTVARLIBDIR}/documentation/thirdparty/codec_opus_config-en_US.xml" name="codec_opus_config-en_US.xml" md5sum="65425fa1d9c6d3964e5b62b1b41c2a2d"/>
+    <file install_path="${ASTVARLIBDIR}/documentation/thirdparty/codec_opus/LICENSE" name="LICENSE" md5sum="898fb5dc83801a72fbdc6f6e7b5167c9"/>
+    <file install_path="${ASTVARLIBDIR}/documentation/thirdparty/codec_opus/README" name="README" md5sum="f65b1717071bc425ca16fcf07aa3f840"/>
+  </files>
+  <modules>
+    <module name="codec_opus">
+      <depend>opus</depend>
+      <depend>res_curl</depend>
+    </module>
+    <module name="format_ogg_opus">
+      <depend>opusfile</depend>
+      <depend>res_curl</depend>
+    </module>
+  </modules>
+</package>
