@@ -16,7 +16,7 @@ docker push ghcr.io/cumpsd/asterisk:latest
 ## Test
 
 ```bash
-docker run --rm -it ghcr.io/cumpsd/asterisk:latest -V
+docker run --rm -it ghcr.io/cumpsd/asterisk:latest /usr/sbin/asterisk -V
 
 docker run --rm -it --net=host --name asterisk \
   -v (pwd)/docker/cdr:/var/log/asterisk/cdr-custom/ \
