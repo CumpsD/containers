@@ -52,7 +52,8 @@ RUN DEBIAN_FRONTEND=noninteractive \
     uuid \
     uuid-dev \
     xmlstarlet \
-    lame
+    lame \
+    s3cmd
 
 RUN DEBIAN_FRONTEND=noninteractive \
   apt-get purge --yes --auto-remove
