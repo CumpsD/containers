@@ -1,0 +1,27 @@
+version: 2
+
+updates:
+- package-ecosystem: docker
+  directory: "/asterisk"
+  schedule:
+    interval: daily
+    time: "08:00"
+    timezone: Europe/Brussels
+- package-ecosystem: docker
+  directory: "/doh-proxy"
+  schedule:
+    interval: daily
+    time: "08:00"
+    timezone: Europe/Brussels
+- package-ecosystem: docker
+  directory: "/encrypted-dns"
+  schedule:
+    interval: daily
+    time: "08:00"
+    timezone: Europe/Brussels
+- package-ecosystem: docker
+  directory: "/nginx"
+  schedule:
+    interval: daily
+    time: "08:00"
+    timezone: Europe/Brussels
