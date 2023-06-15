@@ -1,4 +1,4 @@
-FROM nginx:1.25.0 as builder
+FROM nginx:1.25.1 as builder
 
 ARG ENABLED_MODULES
 
@@ -68,7 +68,7 @@ RUN set -ex \
     done \
     && echo "BUILT_MODULES=\"$BUILT_MODULES\"" > /tmp/packages/modules.env
 
-FROM nginx:1.25.0
+FROM nginx:1.25.1
 COPY --from=builder /tmp/packages /tmp/packages
 RUN set -ex \
     && apt update \
